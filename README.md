@@ -1,4 +1,1 @@
-LeanEngine-Server
-=================
-
-LeanEngine-Server
+LeanEngine-Server is now located at http://github.com/PeterKnego/LeanEngine-Server
